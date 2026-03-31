@@ -1,3 +1,11 @@
+Bathing soap
+Detergent
+Vim
+Gloves
+Broom
+Mop
+Shower gel
+Shampoo
 Cabbages
 Meat
 Tomatoes
@@ -14,4 +22,3 @@ Oreo
 Winnaz
 Chocolate
 Crisps
-
